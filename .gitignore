@@ -1,0 +1,5 @@
+# تجاهل مجلد المكتبات الخاص بالـ Back-end
+server/node_modules/
+
+# تجاهل ملف الأسرار والمفاتيح
+server/.env
